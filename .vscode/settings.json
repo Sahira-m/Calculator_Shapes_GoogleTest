@@ -1,0 +1,9 @@
+{
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "C:\\Sahira\\YH_C_TEST\\Calculator_Shapes_GoogleTest",
+      "binaryPath": "C:\\Sahira\\YH_C_TEST\\Calculator_Shapes_GoogleTest\\program-debug.exe",
+      "binaryArgs": []
+    }
+  ]
+}
